@@ -1,5 +1,11 @@
 # @sveltejs/kit
 
+## 1.20.2
+
+### Patch Changes
+
+- fix: disallow `actions` export from a `+layout.server` file ([#10046](https://github.com/sveltejs/kit/pull/10046))
+
 ## 1.20.1
 
 ### Patch Changes
